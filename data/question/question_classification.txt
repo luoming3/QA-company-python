@@ -1,0 +1,6 @@
+0:ntc t nz 
+1:ntc t t1 nz 
+2:t nz 高于 m 
+3:t nz 低于 m 
+4:t nz 前 m 
+5:ntc ng
