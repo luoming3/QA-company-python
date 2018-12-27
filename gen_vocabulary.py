@@ -2,9 +2,8 @@
 
 from __future__ import unicode_literals
 
-from main.QuestionAnswer import *
+from main.ModelProcess import *
 # 问题集的分词应和用户输入的分词一致, 需要导入自定义词典
-questionService = QuestionAnswer()
 
 
 def gen_vocabulary():
